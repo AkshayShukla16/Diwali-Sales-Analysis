@@ -2,7 +2,7 @@
 
 
 <p align="center">
-  <img src="diwali.jpeg" alt="Diwali Sales Insights Banner">
+  <img src="diwali.jpg" alt="Diwali Sales Insights Banner">
 </p>
 
 **Welcome to Diwali Sales Insights!** 🎉📊 This repository is your gateway to uncovering the magic behind Diwali's bustling sales season. Prepare to explore, enhance customer experiences, and supercharge sales performance for an extraordinary festive celebration!
@@ -17,7 +17,6 @@
 - [Exploratory Data Analysis](#exploratory-data-analysis)
 - [Elevating Customer Experiences](#elevating-customer-experiences)
 - [Boosting Sales Performance](#boosting-sales-performance)
-- 
 
 ## Introduction
 
@@ -53,6 +52,7 @@ Begin with meticulous data preparation. Rigorous cleaning and manipulation set t
 <p align="center">
   <img src="Data-loading.JPG" alt="Diwali Sales Insights Banner">
 </p>
+<br>
 ## Exploratory Data Analysis
 
 Unveil hidden insights using pandas, matplotlib, and seaborn. Dive into exploratory data analysis, uncovering trends, patterns, and outliers shaping Diwali sales dynamics.
