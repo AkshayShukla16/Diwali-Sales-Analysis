@@ -58,7 +58,7 @@ Begin with meticulous data preparation. Rigorous cleaning and manipulation set t
 Unveil hidden insights using pandas, matplotlib, and seaborn. Dive into exploratory data analysis, uncovering trends, patterns, and outliers shaping Diwali sales dynamics.
 <br><br>
 <p align="center">
-  <img src="EDA-1.PNG" alt="Diwali Sales Insights Banner">
+  <img src="EDA-1.png" alt="Diwali Sales Insights Banner">
 </p>
 <br><br>
 <p align="center">
